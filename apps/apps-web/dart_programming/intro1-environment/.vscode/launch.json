@@ -13,7 +13,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "${file}"
+      "program": "main.dart"
     }
   ]
 }
